@@ -1,0 +1,1591 @@
+[
+    {
+        "vrwId": 121102,
+        "names": {
+            "main": {
+                "nl": "Sunshine Crete"
+            },
+            "fallback": "Sunshine Crete"
+        },
+        "type": "Hotel",
+        "media": {
+            "id": "863465ef-a96d-4e93-9c18-096b2bb932b8"
+        },
+        "geo": {
+            "coordinates": [
+                25.7649,
+                35.0086
+            ],
+            "type": "POINT"
+        },
+        "stars": 4,
+        "address": {
+            "street": "Agios Loannis",
+            "zipcode": "72200"
+        },
+        "contactInformation": {
+            "phone": "",
+            "email": "",
+            "url": ""
+        },
+        "awards": {
+            "winnerYears": [
+                "2009",
+                "2010"
+            ],
+            "recommendedYears": [
+                "2011",
+                "2012"
+            ]
+        },
+        "facilities": [
+            {
+                "id": "e70c36ec-9d06-4168-baa9-b218aed58a2b"
+            },
+            {
+                "id": "48cbb5bf-62a4-485b-aebe-7995ec7dabfe"
+            },
+            {
+                "id": "cfefe2ff-ebe6-4e98-aa96-e6d5cf0c82d7"
+            },
+            {
+                "id": "2a251a3e-2a2b-458b-9d6d-102183397945"
+            },
+            {
+                "id": "481cf086-9da7-47ad-b913-e42ec2747f1f"
+            },
+            {
+                "id": "28d45f91-6a23-496a-8e08-93dbb6ead7d2"
+            },
+            {
+                "id": "2aa1939a-42f5-4c0d-acd5-b0659493b189"
+            },
+            {
+                "id": "d6901a57-9fe0-41f1-9eba-84edfdfb9d33"
+            },
+            {
+                "id": "1811fbf8-b513-4c74-82f9-9cae348dc8e0"
+            },
+            {
+                "id": "b3e5f6ae-64bc-4343-b1de-2195c7cddbd6"
+            },
+            {
+                "id": "126e80c1-47c7-40a7-8588-fef8bbc44849"
+            },
+            {
+                "id": "652e5713-3a06-418e-abb0-90fa186ab5d6"
+            },
+            {
+                "id": "2e81daba-641e-4f00-a5bb-c27458acdf0e"
+            },
+            {
+                "id": "b25462b7-d270-417f-9e34-de59e3fbf54b"
+            },
+            {
+                "id": "9501a388-9b3f-49ea-afca-4a3312b4ced2"
+            },
+            {
+                "id": "4d209963-9d6f-473d-bcaf-208d062ccab0"
+            },
+            {
+                "id": "89a77d04-026d-417a-ba62-bb17bceb2bcf"
+            },
+            {
+                "id": "e70d4c86-34c7-4aa4-bb1e-bf730c309982"
+            },
+            {
+                "id": "bc85d960-c2a7-4a01-a8f5-656e18c7a092"
+            },
+            {
+                "id": "959e4797-a8a0-49f0-bf0b-fe3377abcaaa"
+            },
+            {
+                "id": "7444aa49-5fab-42b1-a708-96b6d5aa84cc"
+            },
+            {
+                "id": "4c7dfe54-6c20-434e-a0a6-cc66ce57017b"
+            },
+            {
+                "id": "1dad81c5-bb36-4d3a-bdec-4748aed258be"
+            },
+            {
+                "id": "ac54b417-afd1-40fb-a330-881264dbfb86"
+            },
+            {
+                "id": "fd3e67ce-b4ba-4d8f-9c4e-7169129d91b4"
+            },
+            {
+                "id": "ee1465cd-0249-4e6a-b2e5-8461f3e12d90"
+            },
+            {
+                "id": "98324d89-df97-4730-95b5-c1701c30bd4c"
+            }
+        ],
+        "heliosUrl": "/griekenland/kreta/ierapetra/sunshine-crete/hotel",
+        "heliosHistoricalUrls": [
+            {
+                "oldUrl": "/griekenland/kreta/ierapetra/sunshine-crete/hotel/reisaanbieders",
+                "newUrl": "/griekenland/kreta/ierapetra/sunshine-crete/hotel"
+            },
+            {
+                "oldUrl": "/accommodation-testimonials-190465",
+                "newUrl": "/griekenland/kreta/ierapetra/sunshine-crete/hotel"
+            },
+            {
+                "oldUrl": "/griekenland/kreta/ierapetra/sunshine-crete/a/hotel",
+                "newUrl": "/griekenland/kreta/ierapetra/sunshine-crete/hotel"
+            }
+        ],
+        "bookingComBlockEnabled": false,
+        "premiumAdlinkEnabled": false,
+        "owner": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "status": {
+            "published": true,
+            "checked": true,
+            "reason": "NOT_SET"
+        },
+        "parents": [
+            {
+                "id": "fb74f7f1-53f4-440c-aeaa-c680d543c4e5"
+            }
+        ],
+        "id": "0a1c8c03-cf4e-4136-abc9-d8b00b84b1fe",
+        "heliosId": 190465,
+        "updatedDate": 1514782520095,
+        "popularityScore": 59.06
+    },
+    {
+        "vrwId": 31243,
+        "names": {
+            "main": {
+                "nl": "Blue Collection Kiris"
+            },
+            "fallback": "Blue Collection Kiris"
+        },
+        "type": "Hotel",
+        "media": {
+            "id": "c89d69ff-5803-4fbb-af65-91935e227abf"
+        },
+        "geo": {
+            "coordinates": [
+                30.586057,
+                36.580024
+            ],
+            "type": "POINT"
+        },
+        "stars": 5,
+        "address": {
+            "street": "Kiris Mah. Sahil Yolu Cad. No 88",
+            "zipcode": "T-07980"
+        },
+        "contactInformation": {
+            "phone": "+90 242 824 74 02",
+            "email": "kiris@magiclife.at",
+            "url": "www.magiclife.com/clubdetails/clubs/tuerkei/club_magic_life_kiris_imperial.html"
+        },
+        "awards": {
+            "recommendedYears": [
+                "2011"
+            ],
+            "highlyRecommendedYears": [
+                "2012"
+            ]
+        },
+        "facilities": [
+            {
+                "id": "e70c36ec-9d06-4168-baa9-b218aed58a2b"
+            },
+            {
+                "id": "05fef45d-a654-43c4-b4de-53f07a48d595"
+            },
+            {
+                "id": "14070a81-3824-4e72-85ec-8595e0db9652"
+            },
+            {
+                "id": "538b329c-cb5d-4dc7-8ef5-a9d4fc123b36"
+            },
+            {
+                "id": "481cf086-9da7-47ad-b913-e42ec2747f1f"
+            },
+            {
+                "id": "28d45f91-6a23-496a-8e08-93dbb6ead7d2"
+            },
+            {
+                "id": "2aa1939a-42f5-4c0d-acd5-b0659493b189"
+            },
+            {
+                "id": "1fb9abfa-6c1a-4d7e-8f96-9dcd07cf215d"
+            },
+            {
+                "id": "1811fbf8-b513-4c74-82f9-9cae348dc8e0"
+            },
+            {
+                "id": "b3e5f6ae-64bc-4343-b1de-2195c7cddbd6"
+            },
+            {
+                "id": "6b0e19ea-c5d8-4e47-afc4-213368e40e90"
+            },
+            {
+                "id": "652e5713-3a06-418e-abb0-90fa186ab5d6"
+            },
+            {
+                "id": "2e81daba-641e-4f00-a5bb-c27458acdf0e"
+            },
+            {
+                "id": "df3257b3-c994-42c5-abea-948ef50cf92b"
+            },
+            {
+                "id": "9501a388-9b3f-49ea-afca-4a3312b4ced2"
+            },
+            {
+                "id": "89a77d04-026d-417a-ba62-bb17bceb2bcf"
+            },
+            {
+                "id": "8d24f230-b7bd-47a3-bf5b-d138ec07ec90"
+            },
+            {
+                "id": "bc85d960-c2a7-4a01-a8f5-656e18c7a092"
+            },
+            {
+                "id": "959e4797-a8a0-49f0-bf0b-fe3377abcaaa"
+            },
+            {
+                "id": "7444aa49-5fab-42b1-a708-96b6d5aa84cc"
+            },
+            {
+                "id": "7a22b708-cb68-4a46-9001-a00afc98dbd7"
+            },
+            {
+                "id": "1dad81c5-bb36-4d3a-bdec-4748aed258be"
+            },
+            {
+                "id": "ba9f0352-d010-43f2-bf39-eebe29ffb829"
+            },
+            {
+                "id": "fd3e67ce-b4ba-4d8f-9c4e-7169129d91b4"
+            },
+            {
+                "id": "ee1465cd-0249-4e6a-b2e5-8461f3e12d90"
+            },
+            {
+                "id": "7ccca09f-37a9-4470-9c93-5d823ba072ea"
+            }
+        ],
+        "heliosUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel",
+        "heliosHistoricalUrls": [
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/joy-kiris-world/hotel",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/joy-kiris-world/hotel/tips",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/tips"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/joy-kiris-world/hotel/plattegrond",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/plattegrond"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/joy-kiris-world/hotel/forum",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/forum"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/joy-kiris-world/hotel/fotos",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/fotos"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/joy-kiris-world/hotel/videos",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/videos"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/joy-kiris-world/hotel/weer",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/weer"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/joy-kiris-world/hotel/informatie",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/informatie"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/joy-kiris-world/hotel/reisaanbieders",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kirisvh-joy-kiris-world/hotel/plattegrond",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/plattegrond"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kirisvh-joy-kiris-world/hotel/videos",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/videos"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kirisvh-joy-kiris-world/hotel/fotos",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/fotos"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kirisvh-joy-kiris-world/hotel/tips",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/tips"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kirisvh-joy-kiris-world/hotel/reisaanbieders",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kirisvh-joy-kiris-world/hotel/forum",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/forum"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kirisvh-joy-kiris-world/hotel/informatie",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/informatie"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kirisvh-joy-kiris-world/hotel/weer",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/weer"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kirisvh-joy-kiris-world/hotel",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris-vh-joy-kiris-world/hotel/fotos",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/fotos"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris-vh-joy-kiris-world/hotel/plattegrond",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/plattegrond"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris-vh-joy-kiris-world/hotel/informatie",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/informatie"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris-vh-joy-kiris-world/hotel/videos",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/videos"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris-vh-joy-kiris-world/hotel/tips",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/tips"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris-vh-joy-kiris-world/hotel/forum",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/forum"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris-vh-joy-kiris-world/hotel/weer",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel/weer"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris-vh-joy-kiris-world/hotel",
+                "newUrl": "/turkije/mediterraan/kemer-tekirova-kiris-goynuk/blue-collection-kiris/hotel"
+            }
+        ],
+        "bookingComBlockEnabled": false,
+        "premiumAdlinkEnabled": false,
+        "owner": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "status": {
+            "published": true,
+            "checked": true,
+            "reason": "NOT_SET"
+        },
+        "parents": [
+            {
+                "id": "38c61e31-8cf9-4e3e-8e45-eaa7bc7d0439"
+            }
+        ],
+        "id": "ddc0e073-004f-49ac-90c4-48ddbad0cb80",
+        "heliosId": 107554,
+        "updatedDate": 1514782517111,
+        "popularityScore": 59.74
+    },
+    {
+        "vrwId": 3404,
+        "names": {
+            "main": {
+                "nl": "Bellasole Suites"
+            },
+            "fallback": "Bellasole Suites"
+        },
+        "type": "Appartement",
+        "media": {
+            "id": "27bb0e70-8485-4d1c-ae28-12a7df711d42"
+        },
+        "geo": {
+            "coordinates": [
+                27.415073,
+                37.031128
+            ],
+            "type": "POINT"
+        },
+        "stars": 3,
+        "address": {
+            "street": "Osman Nuri Bilgin Caddesi,",
+            "zipcode": "48400"
+        },
+        "contactInformation": {
+            "phone": "+90 212 513 26 73 ",
+            "email": "",
+            "url": ""
+        },
+        "awards": {},
+        "facilities": [
+            {
+                "id": "e70c36ec-9d06-4168-baa9-b218aed58a2b"
+            },
+            {
+                "id": "cfefe2ff-ebe6-4e98-aa96-e6d5cf0c82d7"
+            },
+            {
+                "id": "f895dca3-9628-465b-87e6-6cc930c0e321"
+            },
+            {
+                "id": "5738cb19-9d91-4b39-b227-422221c0417d"
+            },
+            {
+                "id": "28d45f91-6a23-496a-8e08-93dbb6ead7d2"
+            },
+            {
+                "id": "1811fbf8-b513-4c74-82f9-9cae348dc8e0"
+            },
+            {
+                "id": "126e80c1-47c7-40a7-8588-fef8bbc44849"
+            },
+            {
+                "id": "652e5713-3a06-418e-abb0-90fa186ab5d6"
+            },
+            {
+                "id": "b25462b7-d270-417f-9e34-de59e3fbf54b"
+            },
+            {
+                "id": "9501a388-9b3f-49ea-afca-4a3312b4ced2"
+            },
+            {
+                "id": "89a77d04-026d-417a-ba62-bb17bceb2bcf"
+            },
+            {
+                "id": "bc85d960-c2a7-4a01-a8f5-656e18c7a092"
+            },
+            {
+                "id": "959e4797-a8a0-49f0-bf0b-fe3377abcaaa"
+            },
+            {
+                "id": "c4d453e6-ca4d-4bae-992f-9274d98b15e7"
+            },
+            {
+                "id": "7a22b708-cb68-4a46-9001-a00afc98dbd7"
+            },
+            {
+                "id": "fb22cc52-132c-4096-a02a-2f6b8785798d"
+            },
+            {
+                "id": "422331b9-c8a4-46ba-a2b1-136e7f51a893"
+            }
+        ],
+        "heliosUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement",
+        "heliosHistoricalUrls": [
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/sunshine/hotel/fotos",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/fotos"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/sunshine/hotel/plattegrond",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/plattegrond"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/sunshine/hotel/weer",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/weer"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/sunshine/hotel",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/sunshine/hotel/forum",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/forum"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/sunshine/hotel/tips",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/tips"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/sunshine/hotel/videos",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/videos"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/sunshine/hotel/informatie",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/informatie"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/sunshine/hotel/reisaanbieders",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement"
+            },
+            {
+                "oldUrl": "/accommodation-testimonials-107139",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/sunshine/a/hotel",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites-vh-sunshine/appartement/fotos",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/fotos"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites-vh-sunshine/appartement",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites-vh-sunshine/appartement/videos",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/videos"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites-vh-sunshine/appartement/plattegrond",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/plattegrond"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites-vh-sunshine/appartement/informatie",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/informatie"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites-vh-sunshine/appartement/tips",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/tips"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites-vh-sunshine/appartement/weer",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/weer"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites-vh-sunshine/appartement/reisaanbieders",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites-vh-sunshine/appartement/forum",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/bellasole-suites/appartement/forum"
+            }
+        ],
+        "bookingComBlockEnabled": false,
+        "premiumAdlinkEnabled": false,
+        "owner": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "status": {
+            "published": true,
+            "checked": true,
+            "reason": "NOT_SET"
+        },
+        "parents": [
+            {
+                "id": "7c43bb04-85af-4fa7-87be-980a901490d9"
+            }
+        ],
+        "id": "8a0d839a-e74e-4c0d-abaa-ce58b6b29ed5",
+        "heliosId": 107139,
+        "updatedDate": 1514782520080,
+        "popularityScore": 34.55
+    },
+    {
+        "giataId": "29640",
+        "vrwId": 67641,
+        "names": {
+            "main": {
+                "nl": "Riviera Güler Resort"
+            },
+            "fallback": "Riviera Güler Resort"
+        },
+        "type": "Hotel",
+        "media": {
+            "id": "0610f88e-7993-46d2-91cc-bb071a02ce07"
+        },
+        "geo": {
+            "coordinates": [
+                27.398293,
+                37.036869
+            ],
+            "type": "POINT"
+        },
+        "stars": 3,
+        "address": {
+            "street": "Oramiral Kemal Kayacan Sk.",
+            "zipcode": "T-48400"
+        },
+        "contactInformation": {
+            "phone": "+90 252 319 46 17",
+            "email": "",
+            "url": ""
+        },
+        "awards": {},
+        "facilities": [
+            {
+                "id": "e70c36ec-9d06-4168-baa9-b218aed58a2b"
+            },
+            {
+                "id": "05fef45d-a654-43c4-b4de-53f07a48d595"
+            },
+            {
+                "id": "cfefe2ff-ebe6-4e98-aa96-e6d5cf0c82d7"
+            },
+            {
+                "id": "538b329c-cb5d-4dc7-8ef5-a9d4fc123b36"
+            },
+            {
+                "id": "481cf086-9da7-47ad-b913-e42ec2747f1f"
+            },
+            {
+                "id": "28d45f91-6a23-496a-8e08-93dbb6ead7d2"
+            },
+            {
+                "id": "2aa1939a-42f5-4c0d-acd5-b0659493b189"
+            },
+            {
+                "id": "d6901a57-9fe0-41f1-9eba-84edfdfb9d33"
+            },
+            {
+                "id": "1811fbf8-b513-4c74-82f9-9cae348dc8e0"
+            },
+            {
+                "id": "b3e5f6ae-64bc-4343-b1de-2195c7cddbd6"
+            },
+            {
+                "id": "126e80c1-47c7-40a7-8588-fef8bbc44849"
+            },
+            {
+                "id": "652e5713-3a06-418e-abb0-90fa186ab5d6"
+            },
+            {
+                "id": "4be38b7b-8700-4ac8-99ff-777ffa0f8d4d"
+            },
+            {
+                "id": "df3257b3-c994-42c5-abea-948ef50cf92b"
+            },
+            {
+                "id": "9501a388-9b3f-49ea-afca-4a3312b4ced2"
+            },
+            {
+                "id": "dc0dd02d-24a7-4b1b-91ce-ebe48c9c50ad"
+            },
+            {
+                "id": "89a77d04-026d-417a-ba62-bb17bceb2bcf"
+            },
+            {
+                "id": "8d24f230-b7bd-47a3-bf5b-d138ec07ec90"
+            },
+            {
+                "id": "bc85d960-c2a7-4a01-a8f5-656e18c7a092"
+            },
+            {
+                "id": "959e4797-a8a0-49f0-bf0b-fe3377abcaaa"
+            },
+            {
+                "id": "c4d453e6-ca4d-4bae-992f-9274d98b15e7"
+            },
+            {
+                "id": "4c7dfe54-6c20-434e-a0a6-cc66ce57017b"
+            },
+            {
+                "id": "fb22cc52-132c-4096-a02a-2f6b8785798d"
+            },
+            {
+                "id": "422331b9-c8a4-46ba-a2b1-136e7f51a893"
+            },
+            {
+                "id": "fd3e67ce-b4ba-4d8f-9c4e-7169129d91b4"
+            },
+            {
+                "id": "65b44d64-e5bb-41fd-8641-d0f25dc86eb0"
+            },
+            {
+                "id": "98324d89-df97-4730-95b5-c1701c30bd4c"
+            }
+        ],
+        "heliosUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel",
+        "heliosHistoricalUrls": [
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/guler-riviera-resort/hotel/weer",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel/weer"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/guler-riviera-resort/hotel",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/guler-riviera-resort/hotel/plattegrond",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel/plattegrond"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/guler-riviera-resort/hotel/videos",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel/videos"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/guler-riviera-resort/hotel/tips",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel/tips"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/guler-riviera-resort/hotel/fotos",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel/fotos"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/guler-riviera-resort/hotel/forum",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel/forum"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/guler-riviera-resort/hotel/informatie",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel/informatie"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/guler-riviera-resort/hotel/reisaanbieders",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel"
+            },
+            {
+                "oldUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel/reisaanbieders",
+                "newUrl": "/turkije/egeische-zee/gumbet-bij-bodrum/riviera-guler-resort/hotel"
+            }
+        ],
+        "bookingComBlockEnabled": false,
+        "premiumAdlinkEnabled": false,
+        "owner": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "status": {
+            "published": true,
+            "checked": true,
+            "reason": "NOT_SET"
+        },
+        "parents": [
+            {
+                "id": "7c43bb04-85af-4fa7-87be-980a901490d9"
+            }
+        ],
+        "id": "be580095-39b2-456c-a9d0-12db277742db",
+        "heliosId": 133798,
+        "updatedDate": 1514782558658,
+        "popularityScore": 38
+    },
+    {
+        "vrwId": 1948,
+        "names": {
+            "main": {
+                "nl": "Phokaia"
+            },
+            "fallback": "Phokaia"
+        },
+        "type": "Hotel",
+        "media": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "geo": {
+            "coordinates": [
+                26.75805,
+                38.6675
+            ],
+            "type": "POINT"
+        },
+        "stars": 4,
+        "address": {
+            "street": "Esmet Pasa Mah. 2. Mersina",
+            "zipcode": "Izmir"
+        },
+        "contactInformation": {
+            "phone": "+90 232 812 80 90",
+            "email": "",
+            "url": ""
+        },
+        "awards": {
+            "recommendedYears": [
+                "2011"
+            ]
+        },
+        "facilities": [
+            {
+                "id": "9a3cc52d-5a3c-436c-b467-0422a3bafe74"
+            },
+            {
+                "id": "596de936-c81b-4925-a0b3-456a94b9e752"
+            },
+            {
+                "id": "ac54b417-afd1-40fb-a330-881264dbfb86"
+            }
+        ],
+        "heliosUrl": "/turkije/egeische-zee/foca/phokaia/hotel",
+        "heliosHistoricalUrls": [
+            {
+                "oldUrl": "/turkije/egeische-zee/foca/phokaia/hotel/reisaanbieders",
+                "newUrl": "/turkije/egeische-zee/foca/phokaia/hotel"
+            }
+        ],
+        "bookingComBlockEnabled": false,
+        "premiumAdlinkEnabled": false,
+        "owner": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "status": {
+            "published": true,
+            "checked": true,
+            "reason": "NOT_SET"
+        },
+        "parents": [
+            {
+                "id": "86ee63f0-f75e-4b34-a515-f16af870e91f"
+            }
+        ],
+        "id": "71e3e182-cf40-4a4d-9f71-2ef498942de4",
+        "heliosId": 107057,
+        "updatedDate": 1514782567861,
+        "popularityScore": 55.34
+    },
+    {
+        "giataId": "100937",
+        "vrwId": 30713,
+        "names": {
+            "main": {
+                "nl": "Club Daystar"
+            },
+            "fallback": "Club Daystar"
+        },
+        "type": "Aparthotel",
+        "media": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "geo": {
+            "coordinates": [
+                28.223898,
+                36.795048
+            ],
+            "type": "POINT"
+        },
+        "stars": 3,
+        "address": {
+            "street": "GONENYE MAH. MENEKSE SK.",
+            "zipcode": "48700"
+        },
+        "contactInformation": {
+            "phone": "+90 252 4554606",
+            "email": "",
+            "url": ""
+        },
+        "awards": {},
+        "facilities": [
+            {
+                "id": "d1d7a3cc-0fc5-404a-afbd-626ff4055e72"
+            },
+            {
+                "id": "05fef45d-a654-43c4-b4de-53f07a48d595"
+            },
+            {
+                "id": "cfefe2ff-ebe6-4e98-aa96-e6d5cf0c82d7"
+            },
+            {
+                "id": "481cf086-9da7-47ad-b913-e42ec2747f1f"
+            },
+            {
+                "id": "bb63fd17-19c9-4bfa-bde0-bffa716f0423"
+            },
+            {
+                "id": "2aa1939a-42f5-4c0d-acd5-b0659493b189"
+            },
+            {
+                "id": "d6901a57-9fe0-41f1-9eba-84edfdfb9d33"
+            },
+            {
+                "id": "0d47a0e6-173a-4d5c-9a35-5513b2f4ece9"
+            },
+            {
+                "id": "126e80c1-47c7-40a7-8588-fef8bbc44849"
+            },
+            {
+                "id": "652e5713-3a06-418e-abb0-90fa186ab5d6"
+            },
+            {
+                "id": "4be38b7b-8700-4ac8-99ff-777ffa0f8d4d"
+            },
+            {
+                "id": "9501a388-9b3f-49ea-afca-4a3312b4ced2"
+            },
+            {
+                "id": "89a77d04-026d-417a-ba62-bb17bceb2bcf"
+            },
+            {
+                "id": "d253dab8-859c-4965-adae-4456d793fbd7"
+            },
+            {
+                "id": "575214d9-a1f0-4ff2-9386-696b7adb7c56"
+            },
+            {
+                "id": "c4d453e6-ca4d-4bae-992f-9274d98b15e7"
+            },
+            {
+                "id": "4c7dfe54-6c20-434e-a0a6-cc66ce57017b"
+            },
+            {
+                "id": "fb22cc52-132c-4096-a02a-2f6b8785798d"
+            },
+            {
+                "id": "422331b9-c8a4-46ba-a2b1-136e7f51a893"
+            }
+        ],
+        "heliosUrl": "/turkije/egeische-zee/icmeler-bij-marmaris/club-daystar/aparthotel",
+        "heliosHistoricalUrls": [
+            {
+                "oldUrl": "/turkije/egeische-zee/icmeler-bij-marmaris/club-daystar/aparthotel/reisaanbieders",
+                "newUrl": "/turkije/egeische-zee/icmeler-bij-marmaris/club-daystar/aparthotel"
+            }
+        ],
+        "bookingComBlockEnabled": false,
+        "premiumAdlinkEnabled": false,
+        "owner": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "status": {
+            "published": true,
+            "checked": true,
+            "reason": "NOT_SET"
+        },
+        "parents": [
+            {
+                "id": "70999e92-178f-427a-8ad9-a426d58bf0f7"
+            }
+        ],
+        "id": "fc8ab796-35c7-4084-9e46-74fded8bd3b9",
+        "heliosId": 107392,
+        "updatedDate": 1514782570689,
+        "popularityScore": 47.4
+    },
+    {
+        "giataId": "16658",
+        "vrwId": 50605,
+        "names": {
+            "main": {
+                "nl": "Djerba Mare Beach Resort"
+            },
+            "fallback": "Djerba Mare Beach Resort"
+        },
+        "type": "Hotel",
+        "media": {
+            "id": "93917cc4-c448-4835-b53a-a6343db215de"
+        },
+        "geo": {
+            "coordinates": [
+                10.996278,
+                33.844408
+            ],
+            "type": "POINT"
+        },
+        "stars": 4,
+        "address": {
+            "street": "Route touristique B.P.",
+            "zipcode": "4116"
+        },
+        "contactInformation": {
+            "phone": "+216 75 73 17 17",
+            "email": "",
+            "url": ""
+        },
+        "awards": {
+            "winnerYears": [
+                "2012"
+            ]
+        },
+        "facilities": [
+            {
+                "id": "e70c36ec-9d06-4168-baa9-b218aed58a2b"
+            },
+            {
+                "id": "48cbb5bf-62a4-485b-aebe-7995ec7dabfe"
+            },
+            {
+                "id": "14070a81-3824-4e72-85ec-8595e0db9652"
+            },
+            {
+                "id": "f895dca3-9628-465b-87e6-6cc930c0e321"
+            },
+            {
+                "id": "481cf086-9da7-47ad-b913-e42ec2747f1f"
+            },
+            {
+                "id": "28d45f91-6a23-496a-8e08-93dbb6ead7d2"
+            },
+            {
+                "id": "2aa1939a-42f5-4c0d-acd5-b0659493b189"
+            },
+            {
+                "id": "1fb9abfa-6c1a-4d7e-8f96-9dcd07cf215d"
+            },
+            {
+                "id": "1811fbf8-b513-4c74-82f9-9cae348dc8e0"
+            },
+            {
+                "id": "b3e5f6ae-64bc-4343-b1de-2195c7cddbd6"
+            },
+            {
+                "id": "f5150269-7c58-49fd-aff7-284edf941b21"
+            },
+            {
+                "id": "652e5713-3a06-418e-abb0-90fa186ab5d6"
+            },
+            {
+                "id": "2e81daba-641e-4f00-a5bb-c27458acdf0e"
+            },
+            {
+                "id": "df3257b3-c994-42c5-abea-948ef50cf92b"
+            },
+            {
+                "id": "9501a388-9b3f-49ea-afca-4a3312b4ced2"
+            },
+            {
+                "id": "89a77d04-026d-417a-ba62-bb17bceb2bcf"
+            },
+            {
+                "id": "8d24f230-b7bd-47a3-bf5b-d138ec07ec90"
+            },
+            {
+                "id": "bc85d960-c2a7-4a01-a8f5-656e18c7a092"
+            },
+            {
+                "id": "959e4797-a8a0-49f0-bf0b-fe3377abcaaa"
+            },
+            {
+                "id": "7444aa49-5fab-42b1-a708-96b6d5aa84cc"
+            },
+            {
+                "id": "7a22b708-cb68-4a46-9001-a00afc98dbd7"
+            },
+            {
+                "id": "1dad81c5-bb36-4d3a-bdec-4748aed258be"
+            },
+            {
+                "id": "ac54b417-afd1-40fb-a330-881264dbfb86"
+            },
+            {
+                "id": "fd3e67ce-b4ba-4d8f-9c4e-7169129d91b4"
+            },
+            {
+                "id": "ee1465cd-0249-4e6a-b2e5-8461f3e12d90"
+            },
+            {
+                "id": "7ccca09f-37a9-4470-9c93-5d823ba072ea"
+            }
+        ],
+        "heliosUrl": "/tunesie/tunesie/djerba/djerba-mare-beach-resort/hotel",
+        "heliosHistoricalUrls": [
+            {
+                "oldUrl": "/tunesie/tunesie/djerba/magic-life-djerba-mare-imperial/hotel",
+                "newUrl": "/tunesie/tunesie/djerba/djerba-mare-beach-resort/hotel"
+            },
+            {
+                "oldUrl": "/tunesie/tunesie/djerba/magic-life-djerba-mare-imperial/hotel/fotos",
+                "newUrl": "/tunesie/tunesie/djerba/djerba-mare-beach-resort/hotel/fotos"
+            },
+            {
+                "oldUrl": "/tunesie/tunesie/djerba/magic-life-djerba-mare-imperial/hotel/videos",
+                "newUrl": "/tunesie/tunesie/djerba/djerba-mare-beach-resort/hotel/videos"
+            },
+            {
+                "oldUrl": "/tunesie/tunesie/djerba/magic-life-djerba-mare-imperial/hotel/plattegrond",
+                "newUrl": "/tunesie/tunesie/djerba/djerba-mare-beach-resort/hotel/plattegrond"
+            },
+            {
+                "oldUrl": "/tunesie/tunesie/djerba/magic-life-djerba-mare-imperial/hotel/forum",
+                "newUrl": "/tunesie/tunesie/djerba/djerba-mare-beach-resort/hotel/forum"
+            },
+            {
+                "oldUrl": "/tunesie/tunesie/djerba/magic-life-djerba-mare-imperial/hotel/weer",
+                "newUrl": "/tunesie/tunesie/djerba/djerba-mare-beach-resort/hotel/weer"
+            },
+            {
+                "oldUrl": "/tunesie/tunesie/djerba/magic-life-djerba-mare-imperial/hotel/tips",
+                "newUrl": "/tunesie/tunesie/djerba/djerba-mare-beach-resort/hotel/tips"
+            },
+            {
+                "oldUrl": "/tunesie/tunesie/djerba/magic-life-djerba-mare-imperial/hotel/informatie",
+                "newUrl": "/tunesie/tunesie/djerba/djerba-mare-beach-resort/hotel/informatie"
+            },
+            {
+                "oldUrl": "/tunesie/tunesie/djerba/magic-life-djerba-mare-imperial/hotel/reisaanbieders",
+                "newUrl": "/tunesie/tunesie/djerba/djerba-mare-beach-resort/hotel"
+            }
+        ],
+        "bookingComBlockEnabled": false,
+        "premiumAdlinkEnabled": false,
+        "owner": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "status": {
+            "published": true,
+            "checked": true,
+            "reason": "NOT_SET"
+        },
+        "parents": [
+            {
+                "id": "82e1b90f-5894-49ca-a135-b25e5062d1d8"
+            }
+        ],
+        "id": "a2cb9eee-3291-49a7-8201-f1b36fa47a5f",
+        "heliosId": 113389,
+        "updatedDate": 1514782575877,
+        "popularityScore": 57.06
+    },
+    {
+        "giataId": "36653",
+        "vrwId": 18147,
+        "names": {
+            "main": {
+                "nl": "Derag Maximilian"
+            },
+            "fallback": "Derag Maximilian"
+        },
+        "type": "Hotel",
+        "media": {
+            "id": "8e836545-7feb-4171-a5b5-15c391256093"
+        },
+        "geo": {
+            "coordinates": [
+                11.05839,
+                49.44843
+            ],
+            "type": "POINT"
+        },
+        "stars": 3,
+        "address": {
+            "street": "Obere Kanalstr. 11",
+            "zipcode": "90429"
+        },
+        "contactInformation": {
+            "phone": "+49 (0)911 92 950",
+            "email": "maximilian@deraghotels.de",
+            "url": "www.deraghotels.de"
+        },
+        "awards": {
+            "recommendedYears": [
+                "2011",
+                "2012"
+            ]
+        },
+        "facilities": [
+            {
+                "id": "4a513512-0846-4fca-8fe6-a627e647bd2e"
+            },
+            {
+                "id": "596de936-c81b-4925-a0b3-456a94b9e752"
+            },
+            {
+                "id": "14070a81-3824-4e72-85ec-8595e0db9652"
+            },
+            {
+                "id": "2a251a3e-2a2b-458b-9d6d-102183397945"
+            },
+            {
+                "id": "481cf086-9da7-47ad-b913-e42ec2747f1f"
+            },
+            {
+                "id": "28d45f91-6a23-496a-8e08-93dbb6ead7d2"
+            },
+            {
+                "id": "d041d6cb-2328-41ec-aaf0-c2c75381bc0a"
+            },
+            {
+                "id": "1fb9abfa-6c1a-4d7e-8f96-9dcd07cf215d"
+            },
+            {
+                "id": "1811fbf8-b513-4c74-82f9-9cae348dc8e0"
+            },
+            {
+                "id": "b3e5f6ae-64bc-4343-b1de-2195c7cddbd6"
+            },
+            {
+                "id": "6b0e19ea-c5d8-4e47-afc4-213368e40e90"
+            },
+            {
+                "id": "146927e4-5377-4504-8951-671d63e07392"
+            },
+            {
+                "id": "4be38b7b-8700-4ac8-99ff-777ffa0f8d4d"
+            },
+            {
+                "id": "df3257b3-c994-42c5-abea-948ef50cf92b"
+            },
+            {
+                "id": "9501a388-9b3f-49ea-afca-4a3312b4ced2"
+            },
+            {
+                "id": "dc0dd02d-24a7-4b1b-91ce-ebe48c9c50ad"
+            },
+            {
+                "id": "89a77d04-026d-417a-ba62-bb17bceb2bcf"
+            },
+            {
+                "id": "e70d4c86-34c7-4aa4-bb1e-bf730c309982"
+            },
+            {
+                "id": "bc85d960-c2a7-4a01-a8f5-656e18c7a092"
+            },
+            {
+                "id": "575214d9-a1f0-4ff2-9386-696b7adb7c56"
+            },
+            {
+                "id": "c4d453e6-ca4d-4bae-992f-9274d98b15e7"
+            },
+            {
+                "id": "7a22b708-cb68-4a46-9001-a00afc98dbd7"
+            },
+            {
+                "id": "770c9380-93ab-42ba-b366-7e34703cef60"
+            },
+            {
+                "id": "422331b9-c8a4-46ba-a2b1-136e7f51a893"
+            },
+            {
+                "id": "fd3e67ce-b4ba-4d8f-9c4e-7169129d91b4"
+            },
+            {
+                "id": "fcc97dc0-596c-430d-b3a4-9b08818c4b9a"
+            },
+            {
+                "id": "7ccca09f-37a9-4470-9c93-5d823ba072ea"
+            }
+        ],
+        "heliosUrl": "/duitsland/beieren/nurnberg-neurenberg/derag-maximilian/hotel",
+        "heliosHistoricalUrls": [
+            {
+                "oldUrl": "/duitsland/beieren/nurnberg-neurenberg/derag-maximilian/hotel/reisaanbieders",
+                "newUrl": "/duitsland/beieren/nurnberg-neurenberg/derag-maximilian/hotel"
+            }
+        ],
+        "bookingComBlockEnabled": false,
+        "premiumAdlinkEnabled": false,
+        "owner": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "status": {
+            "published": true,
+            "checked": true,
+            "reason": "NOT_SET"
+        },
+        "parents": [
+            {
+                "id": "ff55b197-c40d-48a8-8e7a-7c0ea25ecb47"
+            }
+        ],
+        "id": "bfcce516-a6f5-4aeb-a8f0-e1377a8f0dde",
+        "heliosId": 75333,
+        "popularityScore": 52.76,
+        "updatedDate": 1514782593174
+    },
+    {
+        "vrwId": 52843,
+        "names": {
+            "main": {
+                "nl": "Side Artemis"
+            },
+            "fallback": "Side Artemis"
+        },
+        "type": "Hotel",
+        "media": {
+            "id": "c0453d53-590f-4f06-ac23-37fac291e5b9"
+        },
+        "geo": {
+            "coordinates": [
+                31.38888,
+                36.76666
+            ],
+            "type": "POINT"
+        },
+        "stars": 3,
+        "address": {
+            "street": "Cennetler Mevkii Kemer Mah.",
+            "zipcode": "07330"
+        },
+        "contactInformation": {
+            "phone": "+90 2427533138",
+            "email": "info@sideartemishotel.com",
+            "url": ""
+        },
+        "awards": {},
+        "facilities": [
+            {
+                "id": "44967285-bf3c-4363-9c6d-48ce4b5c5a14"
+            },
+            {
+                "id": "48cbb5bf-62a4-485b-aebe-7995ec7dabfe"
+            },
+            {
+                "id": "cfefe2ff-ebe6-4e98-aa96-e6d5cf0c82d7"
+            },
+            {
+                "id": "f895dca3-9628-465b-87e6-6cc930c0e321"
+            },
+            {
+                "id": "b3adfb4f-f243-4f67-bf42-6c7ffc41710c"
+            },
+            {
+                "id": "bb63fd17-19c9-4bfa-bde0-bffa716f0423"
+            },
+            {
+                "id": "2aa1939a-42f5-4c0d-acd5-b0659493b189"
+            },
+            {
+                "id": "d6901a57-9fe0-41f1-9eba-84edfdfb9d33"
+            },
+            {
+                "id": "2c1806a2-3d85-4930-bb46-d9850f232447"
+            },
+            {
+                "id": "0d47a0e6-173a-4d5c-9a35-5513b2f4ece9"
+            },
+            {
+                "id": "126e80c1-47c7-40a7-8588-fef8bbc44849"
+            },
+            {
+                "id": "652e5713-3a06-418e-abb0-90fa186ab5d6"
+            },
+            {
+                "id": "4be38b7b-8700-4ac8-99ff-777ffa0f8d4d"
+            },
+            {
+                "id": "b25462b7-d270-417f-9e34-de59e3fbf54b"
+            },
+            {
+                "id": "9501a388-9b3f-49ea-afca-4a3312b4ced2"
+            },
+            {
+                "id": "4d209963-9d6f-473d-bcaf-208d062ccab0"
+            },
+            {
+                "id": "89a77d04-026d-417a-ba62-bb17bceb2bcf"
+            },
+            {
+                "id": "8d24f230-b7bd-47a3-bf5b-d138ec07ec90"
+            },
+            {
+                "id": "bc85d960-c2a7-4a01-a8f5-656e18c7a092"
+            },
+            {
+                "id": "575214d9-a1f0-4ff2-9386-696b7adb7c56"
+            },
+            {
+                "id": "c4d453e6-ca4d-4bae-992f-9274d98b15e7"
+            },
+            {
+                "id": "7a22b708-cb68-4a46-9001-a00afc98dbd7"
+            },
+            {
+                "id": "fb22cc52-132c-4096-a02a-2f6b8785798d"
+            },
+            {
+                "id": "422331b9-c8a4-46ba-a2b1-136e7f51a893"
+            },
+            {
+                "id": "d87b5996-7836-46df-94e3-5c42fd9ed794"
+            },
+            {
+                "id": "65b44d64-e5bb-41fd-8641-d0f25dc86eb0"
+            },
+            {
+                "id": "2524554e-f42c-4435-b7ec-790481a9bc7b"
+            }
+        ],
+        "heliosUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel",
+        "heliosHistoricalUrls": [
+            {
+                "oldUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun/side-artemis/hotel",
+                "newUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun/side-artemis/hotel/videos",
+                "newUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel/videos"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun/side-artemis/hotel/tips",
+                "newUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel/tips"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun/side-artemis/hotel/plattegrond",
+                "newUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel/plattegrond"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun/side-artemis/hotel/weer",
+                "newUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel/weer"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun/side-artemis/hotel/forum",
+                "newUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel/forum"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun/side-artemis/hotel/fotos",
+                "newUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel/fotos"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun/side-artemis/hotel/informatie",
+                "newUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel/informatie"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun/side-artemis/hotel/reisaanbieders",
+                "newUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel"
+            },
+            {
+                "oldUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel/reisaanbieders",
+                "newUrl": "/turkije/mediterraan/side-titreyengol-colakli-sorgun-kumkoy/side-artemis/hotel"
+            }
+        ],
+        "bookingComBlockEnabled": false,
+        "premiumAdlinkEnabled": false,
+        "owner": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "status": {
+            "published": true,
+            "checked": true,
+            "reason": "NOT_SET"
+        },
+        "parents": [
+            {
+                "id": "68fa76b9-3ea0-4737-a5cb-8c9fc253e19d"
+            }
+        ],
+        "id": "cde8dd33-c7e8-4e33-8d90-3466db8922f3",
+        "heliosId": 108360,
+        "updatedDate": 1514782591143,
+        "popularityScore": 38.15
+    },
+    {
+        "vrwId": 31250,
+        "names": {
+            "main": {
+                "nl": "Le Soleil Beach Club"
+            },
+            "fallback": "Le Soleil Beach Club"
+        },
+        "type": "Hotel",
+        "media": {
+            "id": "607fc132-69c3-459b-8755-89d639a83aa3"
+        },
+        "geo": {
+            "coordinates": [
+                39.7745,
+                -3.89037
+            ],
+            "type": "POINT"
+        },
+        "stars": 4,
+        "address": {
+            "street": "Malindi Road",
+            "zipcode": "84737"
+        },
+        "contactInformation": {
+            "phone": "+254 202037784",
+            "email": "",
+            "url": "www.southtravels.com/africa/kenya/lesoleil/index.html"
+        },
+        "awards": {},
+        "facilities": [
+            {
+                "id": "44967285-bf3c-4363-9c6d-48ce4b5c5a14"
+            },
+            {
+                "id": "05fef45d-a654-43c4-b4de-53f07a48d595"
+            },
+            {
+                "id": "cfefe2ff-ebe6-4e98-aa96-e6d5cf0c82d7"
+            },
+            {
+                "id": "f895dca3-9628-465b-87e6-6cc930c0e321"
+            },
+            {
+                "id": "aa70f803-4f86-4688-99de-ec1fb7723599"
+            },
+            {
+                "id": "bb63fd17-19c9-4bfa-bde0-bffa716f0423"
+            },
+            {
+                "id": "d041d6cb-2328-41ec-aaf0-c2c75381bc0a"
+            },
+            {
+                "id": "d6901a57-9fe0-41f1-9eba-84edfdfb9d33"
+            },
+            {
+                "id": "2c1806a2-3d85-4930-bb46-d9850f232447"
+            },
+            {
+                "id": "528f181a-bc2e-4506-9788-e5e6c6fb61cf"
+            },
+            {
+                "id": "126e80c1-47c7-40a7-8588-fef8bbc44849"
+            },
+            {
+                "id": "146927e4-5377-4504-8951-671d63e07392"
+            },
+            {
+                "id": "4be38b7b-8700-4ac8-99ff-777ffa0f8d4d"
+            },
+            {
+                "id": "b25462b7-d270-417f-9e34-de59e3fbf54b"
+            },
+            {
+                "id": "489f9514-fda7-404d-81cf-2d43cbf6c259"
+            },
+            {
+                "id": "4d209963-9d6f-473d-bcaf-208d062ccab0"
+            },
+            {
+                "id": "56deb472-86fa-4797-8ace-97778c60edd0"
+            },
+            {
+                "id": "e70d4c86-34c7-4aa4-bb1e-bf730c309982"
+            },
+            {
+                "id": "d253dab8-859c-4965-adae-4456d793fbd7"
+            },
+            {
+                "id": "575214d9-a1f0-4ff2-9386-696b7adb7c56"
+            },
+            {
+                "id": "c4d453e6-ca4d-4bae-992f-9274d98b15e7"
+            },
+            {
+                "id": "4c7dfe54-6c20-434e-a0a6-cc66ce57017b"
+            },
+            {
+                "id": "fb22cc52-132c-4096-a02a-2f6b8785798d"
+            },
+            {
+                "id": "ac54b417-afd1-40fb-a330-881264dbfb86"
+            },
+            {
+                "id": "4365ac4c-5299-4ec4-bd33-2fb5b6ccfc36"
+            },
+            {
+                "id": "65b44d64-e5bb-41fd-8641-d0f25dc86eb0"
+            },
+            {
+                "id": "2524554e-f42c-4435-b7ec-790481a9bc7b"
+            }
+        ],
+        "heliosUrl": "/kenia/kenia/mombasa/le-soleil-beach-club/hotel",
+        "heliosHistoricalUrls": [
+            {
+                "oldUrl": "/kenia/kenia/mombasa/le-soleil-beach-club/hotel/reisaanbieders",
+                "newUrl": "/kenia/kenia/mombasa/le-soleil-beach-club/hotel"
+            }
+        ],
+        "bookingComBlockEnabled": false,
+        "premiumAdlinkEnabled": false,
+        "owner": {
+            "id": "00000000-0000-0000-0000-000000000000"
+        },
+        "status": {
+            "published": true,
+            "checked": true,
+            "reason": "NOT_SET"
+        },
+        "parents": [
+            {
+                "id": "9285afd2-5fd1-44ce-b737-ea6e50b4ba42"
+            }
+        ],
+        "id": "4a42d14b-f240-44a6-a644-e713e21144f6",
+        "heliosId": 112551,
+        "updatedDate": 1514782603471,
+        "popularityScore": 56.34
+    }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "zoover-assessment",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "start:server": "lerna run start --scope server --stream",
+    "start:client": "lerna run start --scope client --stream",
+    "start": "lerna run start --parallel --scope server --scope client --stream"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
